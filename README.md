@@ -1,2 +1,7 @@
-# 5010764
-Digital Nurture Program 3.0 Java FSE Weekly Submissions from Anuvab Chakravarty (Superset ID: 5010764)
+# JAVA FSE TRACK SUBMISSIONS FOR COGNIZANT DIGITAL NURTURE PROGRAM 3.0
+
+Name: **Anuvab Chakravarty**
+
+Superset ID: **5010764**
+
+E-mail Address: anuvabchakravarty@gmail.com
